@@ -1,0 +1,4 @@
+[core]
+    remote = private-azure
+['remote "private-azure"']
+    url = azure://nlp
